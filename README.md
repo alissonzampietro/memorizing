@@ -1,6 +1,6 @@
-# memorizing
+# Memorizing    
 
-A new Flutter application.
+Application developed to memorize new words.
 
 ## Getting Started
 
